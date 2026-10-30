@@ -9,3 +9,4 @@ $TTL 604800
 @       IN  NS      ns1.home.arpa.
 ns1     IN  A       10.0.60.11
 jenkins     IN  A       10.0.60.12
+www     IN  A       10.0.60.12
