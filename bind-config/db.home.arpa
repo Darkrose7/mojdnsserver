@@ -1,0 +1,11 @@
+$TTL 604800
+@   IN  SOA ns1.home.arpa. admin.home.arpa. (
+            2025060401 ; Serial
+            604800     ; Refresh
+            86400      ; Retry
+            2419200    ; Expire
+            604800 )   ; Negative Cache TTL
+;
+@       IN  NS      ns1.home.arpa.
+ns1     IN  A       10.0.60.11
+jenkins     IN  A       10.0.60.12
